@@ -4243,6 +4243,8 @@ AI и дополнительно:
 
 Просмотр текущих значений настроек в боте:
 
- 
+ ## ТАРИФЫ
+
+ ![Alt text](https://github.com/nop-74/Telegram-checker_2026/blob/main/tar_1.png)  ![Alt text](https://github.com/nop-74/Telegram-checker_2026/blob/main/tar_2.png) ![Alt text](https://github.com/nop-74/Telegram-checker_2026/blob/main/tar_3.png)
 
 - в некоторых меню есть кнопка ⚙️ Настройки, она показывает текущие значения и пример команды `/set_*`.
