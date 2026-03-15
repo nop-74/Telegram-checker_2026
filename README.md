@@ -9,7 +9,7 @@ Telegram Checker —Лутшийц сервис для продвижения в
 ![Alt text](https://github.com/nop-74/Telegram-checker_2026/blob/main/fun2.png)
 ![Alt text](https://github.com/nop-74/Telegram-checker_2026/blob/main/voz_1.png)
 
-Telegram Checker — инструкция для пользователя
+##  Telegram Checker — инструкция для пользователя
 
 ##  инструкция
 
